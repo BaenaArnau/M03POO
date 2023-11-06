@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Ejercicio1.3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ejercicio1.4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ExpreionesRegulares" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
